@@ -1,0 +1,9 @@
+Comandos do GitBash: https://comandosgit.github.io/#criando-o-projeto 
+git init - Isso cria um novo subdiretório chamado .git que contem todos os arquivos necessários de seu repositório	
+git clone [url] - Você clona um repositório
+git add - todos os seus arquivos estarão monitorados
+git commit -m "" - Armazena o conteúdo atual do índice em um novo commit
+git status - mostra em qual branch você se encontra
+git diff - mostra as linhas exatas que foram adicionadas e removidas
+git rm -f {arquivo} - Para remover um arquivo do Git
+git mv - Move arquivos
